@@ -1,9 +1,10 @@
 Gem::Specification.new do |s|
-  s.name    = 'pjax_rails'
-  s.version = '0.2.0'
-  s.author  = 'David Heinemeier Hansson (PJAX by Chris Wanstrath)'
-  s.email   = 'david@loudthinking.com'
+  s.name    = 'rails-pjax'
+  s.version = '0.0.1'
+  s.author  = 'Helioid (original David Heinemeier Hansson and PJAX by Chris Wanstrath)'
+  s.email   = 'info@helioid.com'
   s.summary = 'PJAX integration for Rails 3.1+'
+  s.homepage    = 'http://www.helioid.com/'
 
   s.add_dependency 'jquery-rails'
 
